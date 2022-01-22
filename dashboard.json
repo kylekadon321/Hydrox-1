@@ -1,8 +1,8 @@
 {
     "bot": {
-        "prefix": "Bot Prefix",
-        "id": "Bot Id",
-        "secret": "Bot Secret",
+        "prefix": ",",
+        "id": "899824845867593838",
+        "secret": "79kgOlHy5wEJhs6OEa5L_3wFS1EPuT-a",
         "token": "Bot Token"
     },
     "dashboard": {
